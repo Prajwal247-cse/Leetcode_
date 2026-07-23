@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
