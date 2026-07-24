@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
