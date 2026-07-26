@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
