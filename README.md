@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Linked List
@@ -101,9 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
