@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0202-happy-number) |
 ## Stack
 |  |
