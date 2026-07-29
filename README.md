@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0875-koko-eating-bananas) |
 ## Sliding Window
 |  |
 | ------- |
