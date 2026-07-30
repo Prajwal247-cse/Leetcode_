@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0130-surrounded-regions) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0015-3sum) |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0455-assign-cookies) |
