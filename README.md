@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prajwal247-cse/Leetcode_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Matrix
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0881-boats-to-save-people) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
+| [0881-boats-to-save-people](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
