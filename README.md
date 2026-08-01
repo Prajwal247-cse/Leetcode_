@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
+| [1138-alphabet-board-path](https://github.com/Prajwal247-cse/Leetcode_/tree/master/1138-alphabet-board-path) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1138-alphabet-board-path](https://github.com/Prajwal247-cse/Leetcode_/tree/master/1138-alphabet-board-path) |
 ## Bit Manipulation
 |  |
 | ------- |
