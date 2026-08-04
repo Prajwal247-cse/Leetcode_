@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0875-koko-eating-bananas) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
@@ -153,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
