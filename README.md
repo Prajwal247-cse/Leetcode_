@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0876-middle-of-the-linked-list) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0234-palindrome-linked-list) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0455-assign-cookies) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
 ## String
 |  |
 | ------- |
@@ -167,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0102-binary-tree-level-order-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
