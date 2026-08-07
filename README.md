@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0200-number-of-islands) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0733-flood-fill) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0704-binary-search) |
