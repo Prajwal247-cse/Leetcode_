@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
 ## String
 |  |
@@ -177,5 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
