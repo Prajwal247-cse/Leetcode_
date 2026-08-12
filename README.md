@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prajwal247-cse/Leetcode_/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Prajwal247-cse/Leetcode_/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Prajwal247-cse/Leetcode_/tree/master/0881-boats-to-save-people) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Prajwal247-cse/Leetcode_/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Sorting
 |  |
 | ------- |
